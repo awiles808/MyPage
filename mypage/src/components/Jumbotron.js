@@ -8,7 +8,7 @@ const Styles = styled.div`
     background: url(${trees}) no-repeat fixed bottom;
     background-size: cover;
     color: #efefef;
-    height: 400px;
+    height: 350px;
     position: relative;
     z-index: -2;
   }
